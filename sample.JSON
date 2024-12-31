@@ -1,0 +1,39 @@
+[
+    {
+      "Batch": "23/24 - Batch 2k28",
+      "Type": "MCQ",
+      "Question": "What is an example of an estrogen agonist?",
+      "Choices": [
+        "Raloxifene",
+        "Tamoxifen",
+        "Estradiol",
+        "Fulvestrant"
+      ],
+      "Answer": "Raloxifene",
+      "original_question": "Estrogen agonist",
+      "original_answer": "Raloxifene",
+      "Topic": "Treatment of Osteoporosis",
+      "Index": "7.8.48",
+      "Lecture": "Treatment of Osteoporosis",
+      "Dr": "Dr Mohd Saleh"
+    },
+    {
+      "Batch": "23/24 - Batch 2k28",
+      "Type": "MCQ",
+      "Question": "Baracitinib was added to methotrexate for a patient with rheumatoid arthritis. What is the mechanism of action?",
+      "Choices": [
+        "Janus kinase inhibitor",
+        "DHFR inhibitor",
+        "COX-1 inhibitor",
+        "COX-2 inhibitor"
+      ],
+      "Answer": "Janus kinase inhibitor",
+      "original_question": "baracitinib was added to methotrexate for an RA patient, the mechanism of action is the inhibition of which enzyme?",
+      "original_answer": "Janus kinase inhibitor, DHFR, cox 1, cox 2",
+      "Topic": "Drugs used in management of Rheumatoid Arthritis",
+      "Index": "5.3.28",
+      "Lecture": "Drugs used in management of Rheumatoid Arthritis",
+      "Dr": "Dr Mohd Saleh"
+    }
+  ]
+  
