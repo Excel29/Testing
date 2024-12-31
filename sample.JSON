@@ -34,6 +34,41 @@
       "Index": "5.3.28",
       "Lecture": "Drugs used in management of Rheumatoid Arthritis",
       "Dr": "Dr Mohd Saleh"
-    }
-  ]
-  
+    },
+  {
+    "Batch": "23/24 - Batch 2k28",
+    "Type": "MCQ",
+    "Question": "Damage to which nerve causes winging of the scapula?",
+    "Choices": [
+      "Long thoracic",
+      "Axillary",
+      "Suprascapular",
+      "Dorsal scapular"
+    ],
+    "Answer": "Long thoracic",
+    "original_question": "Winging of scapula what nerve damaged",
+    "original_answer": "Long thoracic",
+    "Topic": "Axilla : Wall and Contents",
+    "Index": "2.2.7",
+    "Lecture": "Axilla : Wall and Contents",
+    "Dr": "Dr ElAdl"
+  },
+  {
+    "Batch": "23/24 - Batch 2k28",
+    "Type": "MCQ",
+    "Question": "A biker falls off his bike onto his neck and sustains an upper trunk lesion. What clinical presentation is likely?",
+    "Choices": [
+      "Medially rotated, adducted arm, extended elbow",
+      "Laterally rotated, abducted arm, flexed elbow",
+      "Loss of sensation over the thumb",
+      "Claw hand"
+    ],
+    "Answer": "Medically rotated, adducted, extended elbow",
+    "original_question": "Biker fell off his bike onto his neck and had upper trunk lesion",
+    "original_answer": "Medically rotated, adducted, extended elbow",
+    "Topic": "Anatomy of Brachial Plexus",
+    "Index": "2.4.9",
+    "Lecture": "Anatomy of Brachial Plexus",
+    "Dr": "Dr Emad"
+  }
+]
